@@ -39,7 +39,7 @@ I initially tried to split the goal range column into 2 columns (with a lower th
 ## Results
 
 ### Outcomes Based on Launch Date
-Campaign success seems to seasonal, with campaigns launching in May-Jun having a higher chance of success than average (about twice as many campaigns launched in May succeed vs. rest of the year).
+Campaign success seems to be seasonal, with campaigns launching in May-Jun having a higher chance of success than average (about twice as many campaigns launched in May succeed vs. rest of the year).
 
 Campaign failure on the other hand seems to not be impacted by seasonality, with a fairly consistent monthly number of failed campaigns all year round, so there must be other key factors deciding the failure of the campaigns beside seasonality.
 
