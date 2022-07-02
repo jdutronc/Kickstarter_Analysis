@@ -3,7 +3,7 @@
 ## Overview of the Project
 
 ### Background
-Louise wanted to start a campaign to help crowdfund $10,000 for her theatre play. As this is her first campaign, she has come to us to perform data analysis on several thousand crowdfunding projects to guide her in her endeavour. Thanks to our initial findings, Louise's fundraising campaign came close to its goal in a short amount of time and we have now been tasked with analyzing how different campaigns fared in relation to their launch date and funding goals.
+Louise wanted to start a campaign to help crowdfund $10,000 for her theater play. As this is her first campaign, she has come to us to perform data analysis on several thousand crowdfunding projects to guide her in her endeavour. Thanks to our initial findings, Louise's fundraising campaign came close to its goal in a short amount of time and we have now been tasked with analyzing how different campaigns fared in relation to their launch date and funding goals.
 
 ### Purpose
 In this assignment we will be looking specifically at campaign outcomes based on their launch dates and their funding goals, using the same dataset from Kickstarter.
