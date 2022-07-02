@@ -13,6 +13,7 @@ In this assignment we will be looking specifically at campaign outcomes based on
 ### Analysis of Outcomes Based on Launch Date
 <img align="right" src="https://github.com/jdutronc/kickstarter-analysis/blob/main/Resources/Theatre_Outcomes_Based_on_Launched_Date.png" width="300">
 The chart on the right shows the crowdfunding campaign outcomes for theater plays based on launch date by calendar month. We created a pivot chart based on the Kickstater dataset to extract relevant data and we have highlighted the successful campaigns in green, the failed campaigns in red and the canceled campaigns in yellow.
+
 <br> Click the image to enlarge.
 
 ### Analysis of Outcomes Based on Funding Goals
