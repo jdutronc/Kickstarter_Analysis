@@ -7,6 +7,6 @@ Louise wants to start a campaign to help crowdfund $10,000 for her theatre play.
 - median campaign goal of $3,000
 - 50 backers on average each donating $89
 - the month that launched the most successful campaigns was May
-![Outcomes_Based_On_Launch_Date](c:/desktop/BootCamp/Module_1/Crowdfunding_Analysis/Outcomes_Based_On_Launch_Date.png)
+![Outcomes_Based_On_Launch_Date](c:/desktop/BootCamp/Module 1/Crowdfunding Analysis/Outcomes_Based_On_Launch_Date.png)
 - Louise's goal is not only twice as high as the average goal for a successful campaign, it's even outside the range for outliers for amounts pledged, which indicates that Lousie has a very low chance of reaching her goal
-![Goals_And_Pledges_for_Successful_GB_Campaigns](c:/desktop/BootCamp/Module_1/Crowdfunding_Analysis/Goals_And_Pledges_for_Successful_GB_Campaigns.png)
+![Goals_And_Pledges_for_Successful_GB_Campaigns](c:/desktop/BootCamp/Module 1/Crowdfunding Analysis/Goals_And_Pledges_for_Successful_GB_Campaigns.png)
