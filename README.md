@@ -25,6 +25,7 @@ The chart on the right shows the crowdfunding campaign outcomes for theater play
 The chart on the left shows the crowdfunding campaign outcomes for theater plays based on their initial funding goals. We sorted successful, failed and canceled campaigns in ranges of initial crowdfunding goal and displayed the results into a line chart, with successful campaigns highlighted in green, failed campaigns in red and canceled campaigns in yellow.
 
 <br> Click the image to enlarge.
+
 <br>
 
 ### Challenges Encountered
@@ -33,13 +34,9 @@ I initially tried to split the goal range column into 2 columns (with a lower th
 
 <br/> So I proceeded with just one "goal" column as described in the assignment and with absolute numbers in my ">=" and "<=" criteria instead of cell references, and it worked beautifully.
 
+<br>
+
+## Results
 
 
-- 525 theater campaigns were successful in the US
-- average campaign goal of $5,049
-- median campaign goal of $3,000
-- 50 backers on average each donating $89
-- the month that launched the most successful campaigns was May
-![Outcomes_Based_On_Launch_Date](C:/Desktop/BootCamp/Module_1/Crowdfunding_Analysis/Outcomes_Based_On_Launch_Date.png)
-- Louise's goal is not only twice as high as the average goal for a successful campaign, it's even outside the range for outliers for amounts pledged, which indicates that Lousie has a very low chance of reaching her goal
 ![Goals_And_Pledges_for_Successful_GB_Campaigns](C:/Desktop/BootCamp/Module_1/Crowdfunding_Analysis/Goals_And_Pledges_for_Successful_GB_Campaigns.png)
