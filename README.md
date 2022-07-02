@@ -11,7 +11,7 @@ In this assignment we will be looking specifically at campaign outcomes based on
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Splitting_the_Goal_Column][https://github.com/jdutronc/kickstarter-analysis/blob/main/Resources/2_Goal_Columns.png|width=100]
+![Splitting_the_Goal_Column](https://github.com/jdutronc/kickstarter-analysis/blob/main/Resources/2_Goal_Columns.png|width=100)
 I initially tried to split the goal range column into 2 columns (with a lower threshold and a higher threshold) to be able to easily drag/copy the formula for  the lower rows and then for the "Successful" column to the "Failed" and "Canceled" columns but I wasn't happy with the results. The syntax of the COUNTIFS function looked right but all rows returned a zero value.
 
 ### Analysis of Outcomes Based on Funding Goals
