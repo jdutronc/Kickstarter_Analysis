@@ -12,7 +12,7 @@ In this assignment we will be looking specifically at campaign outcomes based on
 
 ### Analysis of Outcomes Based on Launch Date
 <img align="right" src="https://github.com/jdutronc/kickstarter-analysis/blob/main/Resources/Theatre_Outcomes_Based_on_Launched_Date.png" width="300">
-The chart on the right shows the crowdfunding campaign outcomes for theater plays based on launch date by calendar month. We created a pivot chart based on the Kickstater dataset to extract relevant data and we have highlighted the successful campaigns in green, the failed campaigns in red and the canceled campaigns in yellow.
+The chart on the right shows the crowdfunding campaign outcomes for theater plays based on launch date by calendar month. We created a pivot chart based on the Kickstater dataset to extract the years and months of campaign launch dates and we have highlighted the successful campaigns in green, the failed campaigns in red and the canceled campaigns in yellow.
 
 <br> Click the image to enlarge.
 
@@ -20,7 +20,11 @@ The chart on the right shows the crowdfunding campaign outcomes for theater play
 
 ### Analysis of Outcomes Based on Funding Goals
 <img align="left" src="https://github.com/jdutronc/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png" width="400">
-The chart on the right shows the crowdfunding campaign outcomes for theater plays based on their initial funding goals.
+The chart on the left shows the crowdfunding campaign outcomes for theater plays based on their initial funding goals. We sorted successful, failed and canceled campaigns in ranges of initial crowdfunding goal and displayed the results into a line chart, with successful campaigns highlighted in green, failed campaigns in red and canceled campaigns in yellow.
+
+<br> Click the image to enlarge.
+
+<br>
 
 ### Challenges Encountered
 <img align="right" src="https://github.com/jdutronc/kickstarter-analysis/blob/main/Resources/2_Goal_Columns.png" width="400">
