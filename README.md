@@ -38,4 +38,10 @@ I initially tried to split the goal range column into 2 columns (with a lower th
 
 ## Results
 
-The success of campaigns seems to seasonal, with campaigns launching in May-Jun having a higher chance of success than average (about twice as many campaigns launched in May succeed vs. rest of the year). Failed campaigns on the other hand seem to not be impacted by seasonality, with a fairly consistent monthly number of failed campaigns all year round, so there must be other key factors deciding the failure of the campaigns beside seasonality.
+The success of campaigns seems to seasonal, with campaigns launching in May-Jun having a higher chance of success than average (about twice as many campaigns launched in May succeed vs. rest of the year).
+
+<br> Failed campaigns on the other hand seem to not be impacted by seasonality, with a fairly consistent monthly number of failed campaigns all year round, so there must be other key factors deciding the failure of the campaigns beside seasonality.
+
+<br> About 70% of campaigns with a goal of $10,000 or less are successful, but as the goal amounts increase, so does the unpredictability of success (about 50:50 chance between $10k and $50k). And campaigns with a goal of $50k or higher have an 88% chance of failure.
+
+<br> 
