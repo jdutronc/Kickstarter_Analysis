@@ -8,6 +8,8 @@ Louise wanted to start a campaign to help crowdfund $10,000 for her theatre play
 ### Purpose
 In this assignment we will be looking specifically at campaign outcomes based on their launch dates and their funding goals, using the same dataset from Kickstarter.
 
+<br>
+
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
@@ -23,7 +25,6 @@ The chart on the right shows the crowdfunding campaign outcomes for theater play
 The chart on the left shows the crowdfunding campaign outcomes for theater plays based on their initial funding goals. We sorted successful, failed and canceled campaigns in ranges of initial crowdfunding goal and displayed the results into a line chart, with successful campaigns highlighted in green, failed campaigns in red and canceled campaigns in yellow.
 
 <br> Click the image to enlarge.
-
 <br>
 
 ### Challenges Encountered
