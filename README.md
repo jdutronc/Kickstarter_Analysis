@@ -13,7 +13,9 @@ In this assignment we will be looking specifically at campaign outcomes based on
 ### Analysis of Outcomes Based on Launch Date
 <img align="right" src="https://github.com/jdutronc/kickstarter-analysis/blob/main/Resources/2_Goal_Columns.png" width="400">
 I initially tried to split the goal range column into 2 columns (with a lower threshold and a higher threshold) to be able to easily drag/copy the formula in O2 down to O13 then to the other "Failed" and "Canceled" columns but I wasn't happy with the results.
+
 <br/> The syntax of the COUNTIFS function looked right but all rows returned a zero value (see picture attached right here) and the cell references in the criteria ">=" and "<=" would remain unchanged when dragging.
+
 <br/> So I proceeded with just one "goal" column as described in the assignment and with absolute numbers in my ">=" and "<=" criteria instead of cell references, and it worked beautifully.
 
 ### Analysis of Outcomes Based on Funding Goals
