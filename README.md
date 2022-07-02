@@ -47,4 +47,7 @@ Campaign failure on the other hand seems to not be impacted by seasonality, with
 About 70% of campaigns with a goal of $10,000 or less are successful, but as the goal amounts increase, so does the unpredictability of success (about 50:50 chance between $10k and $50k). And campaigns with a goal of $50k or higher have an 88% chance of failure.
 
 ### Dataset Limitations
-The sample sizes for each goal range between $25k and $50k are very small, and therefore delicate to interpret. Looking at the chart, it might seem like campaigns with a goal of $45k-$55k are more successful than not, but looking at the data, we see that there are only 9 campaigns in total in that range so the conclusion is questionable.
+The sample sizes for each goal range between $25k and $50k are very small, and therefore delicate to interpret. Looking at the chart, it might seem like campaigns with a goal of $45k-$55k are more successful than not, but looking at the data, we see that there are only 9 campaigns in total in that range so the conclusion is questionable. This might be addressed by breaking down the data into larger ranges ($10k?)
+
+### Addtional Tables or Graphs
+A stacked bar chart could be address the point above by showing both the trend within each range (success or failure) and the size of the sample in each range.
