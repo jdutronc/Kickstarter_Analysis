@@ -8,12 +8,22 @@ Louise wanted to start a campaign to help crowdfund $10,000 for her theatre play
 ### Purpose
 In this assignment we will be looking specifically at campaign outcomes based on their launch dates and their funding goals, using the same dataset from Kickstarter.
 
-## Here are the key findings about successful theatre campaigns in the US:
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+![Splitting_the_Goal_Column](C:/Desktop/BootCamp/Module_1/Assignment/Resources/2_Goal_columns.png)
+I initially tried to split the goal range column into 2 columns (with a lower threshold and a higher threshold) to be able to easily drag/copy the formula for  the lower rows and then for the "Successful" column to the "Failed" and "Canceled" columns but I wasn't happy with the results. The syntax of the COUNTIFS function looked right but all rows returned a zero value.
+
+### Analysis of Outcomes Based on Funding Goals
+
+
+
+
 - 525 theater campaigns were successful in the US
 - average campaign goal of $5,049
 - median campaign goal of $3,000
 - 50 backers on average each donating $89
 - the month that launched the most successful campaigns was May
-![Outcomes_Based_On_Launch_Date](c:/desktop/BootCamp/Module 1/Crowdfunding Analysis/Outcomes_Based_On_Launch_Date.png)
+![Outcomes_Based_On_Launch_Date](C:/Desktop/BootCamp/Module_1/Crowdfunding_Analysis/Outcomes_Based_On_Launch_Date.png)
 - Louise's goal is not only twice as high as the average goal for a successful campaign, it's even outside the range for outliers for amounts pledged, which indicates that Lousie has a very low chance of reaching her goal
-![Goals_And_Pledges_for_Successful_GB_Campaigns](c:/desktop/BootCamp/Module 1/Crowdfunding Analysis/Goals_And_Pledges_for_Successful_GB_Campaigns.png)
+![Goals_And_Pledges_for_Successful_GB_Campaigns](C:/Desktop/BootCamp/Module_1/Crowdfunding_Analysis/Goals_And_Pledges_for_Successful_GB_Campaigns.png)
