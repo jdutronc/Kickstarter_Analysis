@@ -51,4 +51,4 @@ The sample sizes for each goal range between $25k and $50k are very small, and t
 
 ### Addtional Tables or Graphs
 <img align="right" src="https://github.com/jdutronc/kickstarter-analysis/blob/main/Resources/Stacked_Bar.png" width="400">
-A stacked bar chart could be address the point above by showing both the trend within each range (success or failure) and the size of the sample in each range.
+A stacked bar chart could help address the point above by showing both the trend within each range (success or failure) and the size of the sample in each range. And it also helps visualize the distribution of theater campaigns by goal amount.
