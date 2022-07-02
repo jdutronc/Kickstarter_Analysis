@@ -11,7 +11,8 @@ In this assignment we will be looking specifically at campaign outcomes based on
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+<img align="right" src="https://github.com/jdutronc/kickstarter-analysis/blob/main/Resources/Theatre_Outcomes_Based_on_Launched_Date.png" width="400">
+The chart on the right shows the crowdfunding campaign outcomes for theater plays based on launch date by calendar month.
 
 ### Analysis of Outcomes Based on Funding Goals
 
