@@ -38,10 +38,13 @@ I initially tried to split the goal range column into 2 columns (with a lower th
 
 ## Results
 
+### Outcomes Based on Launch Date
 Campaign success seems to seasonal, with campaigns launching in May-Jun having a higher chance of success than average (about twice as many campaigns launched in May succeed vs. rest of the year).
 
 Campaign failure on the other hand seems to not be impacted by seasonality, with a fairly consistent monthly number of failed campaigns all year round, so there must be other key factors deciding the failure of the campaigns beside seasonality.
 
+### Outcomes Based on Funding Goals
 About 70% of campaigns with a goal of $10,000 or less are successful, but as the goal amounts increase, so does the unpredictability of success (about 50:50 chance between $10k and $50k). And campaigns with a goal of $50k or higher have an 88% chance of failure.
 
- 
+### Dataset Limitations
+The sample sizes for each goal range between $25k and $50k are very small, and therefore delicate to interpret. Looking at the chart, it might seem like campaigns with a goal of $45k-$55k are more successful than not, but looking at the data, we see that there are only 9 campaigns in total in that range so the conclusion is questionable.
