@@ -1,6 +1,13 @@
 # kickstarter-analysis
-## Performing analysis on Kickstarter data to uncover trends
-Louise wants to start a campaign to help crowdfund $10,000 for her theatre play. As this is her first campaign, she has come to us to perform data analysis on several thousand crowdfunding projects to guide her in her endeavour.
+
+## Overview of the Project
+
+### Background
+Louise wanted to start a campaign to help crowdfund $10,000 for her theatre play. As this is her first campaign, she has come to us to perform data analysis on several thousand crowdfunding projects to guide her in her endeavour. Thanks to initial findings, Louise's fundraising campaign came close to its goal in a short amount of time and we have now been tasked with analyzing how different campaigns fared in relation to their lauch date and funding goals.
+
+### Purpose
+
+
 ## Here are the key findings about successful theatre campaigns in the US:
 - 525 theater campaigns were successful in the US
 - average campaign goal of $5,049
